@@ -12,3 +12,5 @@ Array: [16,21,11,8,12,22]
 # Big-O Notaion ->
 
 Dizi 2'ye bölünerek ilerlediği için => 2^x = n    x =log2 n     =>  O(log2 n)
+
+www.patika.dev
